@@ -5,4 +5,4 @@
 [submodule "hitobito_svse"]
 	path = hitobito_svse
 	url = https://github.com/hitobito/hitobito_svse.git
-  branch = main
+  branch = master
